@@ -1,0 +1,13 @@
+{
+    "steps": 88,
+    "calories": 77,
+    "workouts": 1,
+    "daily": {
+        "steps": 88,
+        "calories": 77,
+        "workouts": 1
+    },
+    "workout_log": [
+        "gymmm"
+    ]
+}
